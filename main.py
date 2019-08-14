@@ -3,11 +3,11 @@
     DarkFly tools 2019.1
     ------------
 
-    Developer/Author    : Ms.ambari (Muslim ambari)
+    Developer/Author    : Mr.Hackziel (INDONESIA NAD CYBER INC)
     Supported platform  : all Linux distro and termux(android)
     Company             : MahesaSystem
-    Email               : ambari.developer@gmail.com
-    YouTube             : Ms.ambari
+    Email               : INCHacker31.developer@gmail.com
+    YouTube             : Mr.Hackziel
     Github              : /Ranginang67
     Termux Tested on    : Samsung galaxy J5 prime 8.0
     Linux Tested on     : Ubuntu Gnome 16.04 LTS
